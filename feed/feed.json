@@ -1,0 +1,19 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Programming lenguaje",
+    "home_page_url": "https://migueltorres23.github.io/Projecto/",
+    "feed_url": "https://migueltorres23.github.io/Projecto/feed/feed.json",
+    "items": [
+    {
+    "id": "2",
+    "content_text": "This is python",
+    "url": "https://migueltorres23.github.io/Projecto/python.html"
+    },
+    {
+    "id": "1",
+    "content_html": "<p>Hello, Java!</p>",
+    "url": "https://migueltorres23.github.io/Projecto/java.html"
+    }
+    ]
+   }
+   
